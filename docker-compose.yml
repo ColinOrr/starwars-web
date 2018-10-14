@@ -6,5 +6,6 @@ services:
     command: npm start
     volumes:
       - .:/code
+      - ~/.ssh:/root/.ssh
     ports:
       - 3000:3000
