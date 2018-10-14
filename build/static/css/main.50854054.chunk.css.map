@@ -1,0 +1,1 @@
+{"version":3,"sources":["/code/src/index.css"],"names":[],"mappings":"AAIA,UAHE,WAAa,CAOd,AAJD,KACE,SAAU,AACV,SAAW,CAEZ,AAED,MACE,WAAa,CACd","file":"main.50854054.chunk.css","sourcesContent":["html {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n  height: 100%;\n}\n\n#root {\n  height: 100%;\n}\n"]}
